@@ -15,7 +15,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Alba Lucía Gallardo Vera
 
-**Resumen** : lorem ipsun dolor.... 
+**Resumen** : Se trata de un minijuego sobre coches con estética Pixel Art y retro de los 80s Vaporwave. 
 
 **Estilo/género:**  Mini juego
 
