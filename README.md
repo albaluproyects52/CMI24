@@ -9,15 +9,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto (nombre)
+**Titulo** : Pixelcars 
 
 **Web:**   https://    (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Alba Lucía Gallardo Vera
 
 **Resumen** : lorem ipsun dolor.... 
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Mini juego
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
