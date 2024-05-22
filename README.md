@@ -39,8 +39,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Twitter
 - Instagram
 
+![logopixelcarsmejor](https://github.com/albaluproyects52/CMI24/assets/170507196/629cf6ca-5cdc-4966-abff-06ac36c30d0d)
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
@@ -87,7 +87,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a todos los públicos
 
 
 
