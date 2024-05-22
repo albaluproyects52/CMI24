@@ -11,7 +11,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Pixelcars 
 
-**Web:**   https://    (url github.io)
+**Web:**   https://    (albaluproyects52.github.io)
 
 **Autor:**  Alba Lucía Gallardo Vera
 
@@ -19,27 +19,25 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Mini juego
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : ![logopixelcarsmejor](https://github.com/albaluproyects52/albaluproyects52.github.io/assets/170507196/7a2c520e-7d46-47cc-aa73-533ee16a3b1f)
 
-(insertar imágenes a resolucion de 100px alto)
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google Chrome / MS Edge /móviles android 
 
 **Tamaño proyecto:** XXMB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : xx/xx/2024
+**Fecha** : 23/05/2024
 
 **Medios** (donde se tiene presencia relacionada):
 
 - Github:
 - Twitter
 - Instagram
-
-![logopixelcarsmejor](https://github.com/albaluproyects52/CMI24/assets/170507196/629cf6ca-5cdc-4966-abff-06ac36c30d0d)
+![porschedeportivoamarilloeditado](https://github.com/albaluproyects52/albaluproyects52.github.io/assets/170507196/5f4a626d-a615-44ff-8f9f-a1a1c2c7a5b5)
 
 
 # 2. Memoria del proyecto 
@@ -123,7 +121,7 @@ Personalmente este proyecto me ha parecido bastante interesante de realizar por 
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
+
 
 - Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
