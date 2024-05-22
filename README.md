@@ -81,7 +81,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque es educativo en cuanto a la información sobre coches y sobre la estética de los 80s
 
 
 
@@ -97,23 +97,23 @@ Este  proyecto es interesante porque ...
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- El juego lo planteé como un menú de minijuegos en el que tenías oportunidad de jugar a dos minijuegos diferentes. Uno basado en preguntas y respuestas en que ganas si aciertas más de la mitad de las preguntas. El otro adivinar un código secreto que se traduciría en las marchas del coche para terminar la carrera y cada vez que te equivocas te devuelve al principio de la carrera, de manera que para ganar tienes que acertar el código dos veces.
+- El video aparece en la Galería como primer archivo y hay que pulsarle al sol de la imagen para que se reprduzca. Es un video pequeño en bucle sin sonido de un coche moviendose en un paisaje Vaporwave.
+- Puedes navegar con libertad por todas las pantallas. Puedes pasar la animación del principio. Hay que tener en cuenta que para activar o desactivar el sonido solo aparece la opción en la primera pantalla. Para que se reproduzca el video se pulsa al sol de la imagen.
+- Existen dos menús. El primero en el que aparece la galería, los créditos y jugar. El botón de jugar te lleva al siguiente menú en que el que eliges qué minijuego escoger para jugar. Dentro de cada minijuego existe un botón para poder volver al anterior menú.
+
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+En el archivo exportado hay errores que no están en el archivo hanni como que en el minijuego de Quizz se pasa la primera pregunta rápido sin poder responder.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Personalmente este proyecto me ha parecido bastante interesante de realizar por el hecho de aprender un lenguaje totalmente nuevo. Además de crear un espacio interactivo para otros usuarios que tienen la oportunidad de incluirse en nuestro proyecto estético y jugable. Sin embargo, considero, que Hippanni no tiene todas las facilidades que me gustaría para crear este tipo de videojuegos. Me plantería profundizar en otros programas con más recursos.
 
 
 
@@ -129,9 +129,9 @@ Este  proyecto es interesante porque ...
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: Sexualizer-Hotlinemiami, Virtual racing 1900-Xwave 
+* Imágenes: Propias y obtenidas de uso gratuito
+* Tipografía: Lucid Console Negrita
 
 **Herramientas utilizadas**
 
