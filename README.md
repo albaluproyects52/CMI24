@@ -22,17 +22,17 @@ albaluproyects52.github.io/Proyectofinal
 **Logotipo** : ![logopixelcarsmejor](https://github.com/albaluproyects52/albaluproyects52.github.io/assets/170507196/7a2c520e-7d46-47cc-aa73-533ee16a3b1f)
 
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px 
 
 **Probado en:**   Google Chrome / MS Edge /móviles android 
 
-**Tamaño proyecto:** XXMB 
+**Tamaño proyecto:** 74KB
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
 **Fecha** : 23/05/2024
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios** 
 
 - Github:
 - Twitter
