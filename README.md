@@ -72,10 +72,11 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo** 
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- https://www.rockstargames.com/games/gta2?ref=driverlayer.com
+- https://www.boneface.co.uk/hotline-miami
+  
 
 
 
@@ -95,7 +96,6 @@ Este  proyecto es interesante porque es educativo en cuanto a la información so
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
 - El juego lo planteé como un menú de minijuegos en el que tenías oportunidad de jugar a dos minijuegos diferentes. Uno basado en preguntas y respuestas en que ganas si aciertas más de la mitad de las preguntas. El otro adivinar un código secreto que se traduciría en las marchas del coche para terminar la carrera y cada vez que te equivocas te devuelve al principio de la carrera, de manera que para ganar tienes que acertar el código dos veces.
 - El video aparece en la Galería como primer archivo y hay que pulsarle al sol de la imagen para que se reprduzca. Es un video pequeño en bucle sin sonido de un coche moviendose en un paisaje Vaporwave.
@@ -136,7 +136,7 @@ Personalmente este proyecto me ha parecido bastante interesante de realizar por 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+  
 
 
 
