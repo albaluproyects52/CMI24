@@ -11,7 +11,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Pixelcars 
 
-**Web:**   https://    (albaluproyects52.github.io)
+**Web:**   https://    (albaluproyects52.github.io/Proyectofinal)
 
 **Autor:**  Alba Lucía Gallardo Vera
 
@@ -43,18 +43,20 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
+Este proyecto lo empecé queriendo hacer una especie de minijuego de carreras de coches. La estética Pixel Art me inspiró bastante por los videojuegos antiguos además de dar un aire simpático y nostálgico al juego. Para el diseño de los coches me he basado sobre todo en porsche deportivos que he ido ilustrando a base de pixeles de gran tamaño. Luego vi que la estética Vaporwave le vendría muy bien para dar ese sentido digital nostálgico de los 80s en Miami. 
 
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+![Fotostoryboard](https://github.com/albaluproyects52/albaluproyects52.github.io/assets/170507196/7ebcd249-30b0-4145-aed7-a69ddbc3858b)
+Este estoryboard lo creé para hacerme una idea de como quedarían las diferentes pantallas. Al principio no sabía como iban a resultar los minijuegos finales porque cambié de idea a mitad del proceso. En un principio iba a ser solo un juego de carreras de coches sencillo pero opté por dividirlo en dos. Un juego de preguntas y otro juego de adivinar a que marcha cambiar en dos veces durante el minijuego. Las respuestas correctas de los códigos del minijuego: Race. Son 3 y 2. En este orden.
+Para el coche de la animación del principio creé un timeline para que pareciese que se movía. En concreto cambian las ruedas y el brillo del coche.
+Primero organicé el juego en dos menús. El primero de la galería y los créditos y el siguiente para ya jugar a dos minijuegos diferentes. 
 
 
 
 ### 2.2. Esquema de navegación 
 
+![90 sin título_20240523093243](https://github.com/albaluproyects52/albaluproyects52.github.io/assets/170507196/e12f57fa-a520-47c1-87c4-04687d4eab8d)
 
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+El juego se pensó para navegar fácilmente por todas las escenas habiendo un botón de retroceso y avance en todas las pantallas. 
 
 
 
