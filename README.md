@@ -11,7 +11,7 @@ albaluproyects52.github.io/Proyectofinal
 
 **Titulo** : Pixelcars 
 
-**Web:**   https://    (albaluproyects52.github.io/Proyectofinal)
+**Web:**   https://albaluproyects52.github.io
 
 **Autor:**  Alba Lucía Gallardo Vera
 
