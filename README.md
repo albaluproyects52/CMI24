@@ -130,7 +130,7 @@ Personalmente este proyecto me ha parecido bastante interesante de realizar por 
 **Recursos y materiales audiovisuales:**
 
 * Musica: Sexualizer-Hotlinemiami, Virtual racing 1900-Xwave 
-* Imágenes: Propias y obtenidas de uso gratuito
+* Imágenes: Propias y obtenidas de uso gratuito. Snow Hex-Pixilart, Danc3r-DeviantArt, Blow-Pixilart, Glowresmondo-Pixilart, ISOTeremont-Genious, Neodocity-Wallpapperengine, Samuelchpik-Pixabay.
 * Tipografía: Lucid Console Negrita
 
 **Herramientas utilizadas**
